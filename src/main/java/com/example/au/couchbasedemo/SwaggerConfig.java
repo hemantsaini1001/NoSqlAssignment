@@ -42,7 +42,7 @@ public class SwaggerConfig {
                 "All Item related information",
                 "API",
                 "Terms of services",
-                "abhisek.nandan@accolitedigital.com",
+                "hemant.saini@accolitedigital.com",
                 "License of API",
                 "API License URL");
         return apiInfo;
